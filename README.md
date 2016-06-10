@@ -3,9 +3,9 @@
 [![Coverage Status](https://coveralls.io/repos/odoo-argentina/partner/badge.svg?branch=9.0&service=github)](https://coveralls.io/github/odoo-argentina/partner?branch=9.0)
 [![Code Climate](https://codeclimate.com/github/odoo-argentina/partner/badges/gpa.svg)](https://codeclimate.com/github/odoo-argentina/partner)
 
-# Argentinian Partners Related Modules
+# Argentinian On-line Payment Related Modules
 
-Modules that extend partners for common needs in Argentina
+Modules that on-line payment for common providers in Argentina
 
 [//]: # (addons)
 This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
